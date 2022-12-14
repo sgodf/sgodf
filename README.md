@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Rust
 - 🌱 I’m currently learning English
-- 💬 Ask me about Fight the rustc at night
+- 💬 Ask me about: Fight the rustc at night
 - 😄 Pronouns: Dream of becoming cool kids
 - ⚡ Fun fact: Lazy
 
