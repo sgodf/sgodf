@@ -10,5 +10,8 @@
 - translate 《Coding Math》
 - open source
 - exercise
-- then more
+- then more ...
+
+
+
 ![](https://github-readme-stats.vercel.app/api?username=sgodf&theme=dark)
